@@ -23,3 +23,4 @@ class ExampleInstrumentedTest {
         assertEquals("com.example.cdio_gruppe10_7kabalen", appContext.packageName)
     }
 }
+
