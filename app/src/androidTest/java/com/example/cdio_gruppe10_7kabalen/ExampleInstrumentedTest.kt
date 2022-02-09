@@ -21,4 +21,4 @@ class ExampleInstrumentedTest {
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("com.example.cdio_gruppe10_7kabalen", appContext.packageName)
     }
-}
+}//
